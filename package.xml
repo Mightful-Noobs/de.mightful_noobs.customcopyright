@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package name="de.mightful_noobs.customcopyrighttext" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/vortex/package.xsd">
+	<packageinformation>
+		<packagename>Custom Copyright Text</packagename>
+		<packagedescription>Fügt einen eigenen Copyright-Text hinzu.</packagedescription>
+		<version>1.2.0</version>
+		<date>2019-03-02</date>
+	</packageinformation>
+	
+	<authorinformation>
+		<author>Xopez</author>
+		<authorurl>https://mightful-noobs.de/</authorurl>
+	</authorinformation>
+	
+	<excludedpackages>
+		<excludedpackage version="5.3.0 Alpha 1">com.woltlab.wcf</excludedpackage>
+	</excludedpackages>
+
+	<requiredpackages>
+		<requiredpackage minversion="3.0.0">com.woltlab.wcf</requiredpackage>
+	</requiredpackages>
+	
+	<instructions type="install">
+		<instruction type="option">option.xml</instruction>
+		<instruction type="templateListener">templateListener.xml</instruction>
+		<instruction type="language">language/*.xml</instruction>
+	</instructions>
+	
+	<instructions type="update" fromversion="1.0.1">
+		<instruction type="option">option.xml</instruction>
+		<instruction type="templateListener">templateListener.xml</instruction>
+		<instruction type="language">language/*.xml</instruction>
+	</instructions>
+	
+	<instructions type="update" fromversion="1.1.0">
+		<instruction type="option">option.xml</instruction>
+		<instruction type="templateListener">templateListener.xml</instruction>
+		<instruction type="language">language/*.xml</instruction>
+	</instructions>
+	
+	<instructions type="update" fromversion="1.1.1">
+		<instruction type="option">option.xml</instruction>
+		<instruction type="templateListener">templateListener.xml</instruction>
+		<instruction type="language">language/*.xml</instruction>
+	</instructions>
+
+</package>
