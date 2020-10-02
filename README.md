@@ -31,4 +31,4 @@ Creative Commons <by-nc> (https://creativecommons.org/licenses/by-nc/4.0/legalco
 --
 Support:
 Support is given only via:
-Comments: (https://pluginstore.woltlab.com/file/6331-custom-copyright/#reviews)
+Comments: (https://pluginstore.woltlab.com/file/6331-custom-copyright/#comments)
