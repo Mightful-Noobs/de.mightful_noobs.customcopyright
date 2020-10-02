@@ -3,7 +3,7 @@
 	<category name="wcf.acp.option">
 		<item name="wcf.acp.option.category.customcopyright.settings"><![CDATA[Benutzerdefinierter Copyright]]></item>
 		<item name="wcf.acp.option.customcopyright_text"><![CDATA[Copyright Text]]></item>
-		<item name="wcf.acp.option.customcopyright_html"><![CDATA[HTML aktvieren?]]></item>
-		<item name="wcf.acp.option.customcopyright_enable"><![CDATA[Copyright im Footer aktivieren?]]></item>
+		<item name="wcf.acp.option.customcopyright_html"><![CDATA[HTML aktvieren]]></item>
+		<item name="wcf.acp.option.customcopyright_enable"><![CDATA[Copyright im Footer aktivieren]]></item>
 	</category>
 </language>
