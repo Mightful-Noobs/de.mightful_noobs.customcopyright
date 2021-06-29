@@ -1,34 +1,26 @@
-# de.mightful_noobs.customcopyright
-Adds your own copyright text
+Custom Copyright - de.mightful_noobs.customcopyright
+====================
+**Adds your own copyright text.**
 
---
-Website:
-https://mightful-noobs.de/
+The plugin allows you to add your own copyright notice to your homepage without having to create your own templates.
+There is one option to activate the whole thing and one for the text. Only if text is included and the option is activated, it will be displayed on the pages above the Woltlab copyright.
 
---
-Sponsor this project:
-https://www.paypal.me/SaschaMoser
+## Supported Versions:
+- WoltLab Suite 3.0
+- WoltLab Suite 3.1
+- WoltLab Suite 5.2
+- WoltLab Suite 5.3
+- WoltLab Suite 5.4
 
---
-Supported Versions:
-WoltLab Suite 3.0
-WoltLab Suite 3.1
-WoltLab Suite 5.2
-WoltLab Suite 5.3
+## License Agreement:
+- Creative Commons <by-nc> (https://github.com/D1strict/de.mightful_noobs.rsi_pf/blob/master/LICENSE)
 
---
-Description:
-Adds your own copyright text
+## Website
+- https://mightful-noobs.de/
 
---
-Features:
-You can display your own Copyright on your WSC installation without the need to manually edit the templates
+## Sponsor this project
+- https://www.paypal.me/SaschaMoser
 
---
-License:
-Creative Commons <by-nc> (https://creativecommons.org/licenses/by-nc/4.0/legalcode)
-
---
-Support:
+## Bugs & Support
 Support is given only via:
-Comments: (https://pluginstore.woltlab.com/file/6331-custom-copyright/#comments)
+- Comments: (https://pluginstore.woltlab.com/file/6331-custom-copyright/#comments)
