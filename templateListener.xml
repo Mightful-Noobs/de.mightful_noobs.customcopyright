@@ -5,7 +5,7 @@
 			<environment>user</environment>
 			<templatename>pageFooterCopyright</templatename>
 			<eventname>copyright</eventname>
-			<templatecode><![CDATA[{if !CUSTOMCOPYRIGHT_TEXT|empty && CUSTOMCOPYRIGHT_ENABLE}<div class="copyright">{if CUSTOMCOPYRIGHT_HTML}{@CUSTOMCOPYRIGHT_TEXT}{else}{CUSTOMCOPYRIGHT_TEXT}{/if}</div>{/if}]]></templatecode>
+			<templatecode><![CDATA[{if !CUSTOMCOPYRIGHT_TEXT|empty && CUSTOMCOPYRIGHT_ENABLE}<div class="copyright">{if CUSTOMCOPYRIGHT_HTML}{@CUSTOMCOPYRIGHT_TEXT|language}{else}{CUSTOMCOPYRIGHT_TEXT|language}{/if}</div>{/if}]]></templatecode>
 		</templatelistener>
 	</import>
 </data>
