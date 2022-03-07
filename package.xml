@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package name="de.mightful_noobs.customcopyrighttext" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/vortex/package.xsd">
+<package xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/vortex/package.xsd" name="de.mightful_noobs.customcopyrighttext">
 	<packageinformation>
-		<packagename>Custom Copyright</packagename>
-		<packagename language="de">Benutzerdefinierter Copyright</packagename>
-		<packagedescription>Add your own copyright text.</packagedescription>
-		<packagedescription language="de">Fügt einen eigenen Copyright-Text hinzu.</packagedescription>
-		<version>1.2.3</version>
-		<date>2020-10-02</date>
+		<!-- de.mightful_noobs.customcopyrighttext -->
+		<packagename><![CDATA[Custom Copyright]]></packagename>
+		<packagename language="de"><![CDATA[Benutzerdefiniertes Copyright]]></packagename>
+		<packagedescription><![CDATA[Add your own copyright text.]]></packagedescription>
+		<packagedescription language="de"><![CDATA[Fügt einen eigenen Copyright-Text hinzu.]]></packagedescription>
+		<version>1.3.0</version>
+		<date>2022-03-07</date>
+		<packageurl>https://www.woltlab.com/pluginstore/file/6331-custom-copyright/</packageurl>
+		<license>https://github.com/xopez/de.mightful_noobs.customcopyright/blob/main/LICENSE</license>
 	</packageinformation>
-
 	<authorinformation>
-		<author>Xopez</author>
+		<author><![CDATA[Xopez]]></author>
 		<authorurl>https://mightful-noobs.de/</authorurl>
 	</authorinformation>
-
+	<requiredpackages>
+		<requiredpackage minversion="3.0.0 Alpha 1">com.woltlab.wcf</requiredpackage>
+	</requiredpackages>
 	<excludedpackages>
 		<excludedpackage version="6.0.0 Alpha 1">com.woltlab.wcf</excludedpackage>
 	</excludedpackages>
-
-	<requiredpackages>
-		<requiredpackage minversion="3.0.0">com.woltlab.wcf</requiredpackage>
-	</requiredpackages>
-
 	<instructions type="install">
 		<instruction type="option"/>
 		<instruction type="templateListener"/>
@@ -33,5 +32,4 @@
 		<instruction type="templateListener"/>
 		<instruction type="language"/>
 	</instructions>
-
 </package>
