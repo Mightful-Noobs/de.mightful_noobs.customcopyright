@@ -6,10 +6,6 @@ The plugin allows you to add your own copyright notice to your homepage without 
 There is one option to activate the whole thing and one for the text. Only if text is included and the option is activated, it will be displayed on the pages above the WoltLab copyright.
 
 ## Supported Versions:
-- WoltLab Suite 3.0
-- WoltLab Suite 3.1
-- WoltLab Suite 5.2
-- WoltLab Suite 5.3
 - WoltLab Suite 5.4
 
 ## License Agreement:
