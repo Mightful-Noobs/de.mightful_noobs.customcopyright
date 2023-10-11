@@ -11,12 +11,6 @@ There is one option to activate the whole thing and one for the text. Only if te
 ## License Agreement:
 - MIT License <by-nc> (https://github.com/xopez/de.mightful_noobs.customcopyright/blob/main/LICENSE)
 
-## Website
-- https://mightful-noobs.de/
-
-## Sponsor this project
-- https://www.paypal.me/SaschaMoser
-
 ## Bugs & Support
 Support is given only via:
 - Comments: (https://pluginstore.woltlab.com/file/6331-custom-copyright/#comments)
